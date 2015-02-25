@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://xiangyingchang.com/xuexiziliao/
+author: 向应昌kally
+pygments: true
+paginate: 24
