@@ -7,7 +7,9 @@ tags:
 - 微博 阳志平
 ---
 
-*（2015.02.17最后更新）*
+*（2015.03.03最后更新）*
+
+5.用[https://www.futureme.org/](https://www.futureme.org/)给未来的自己写封信吧。
 
 4.[何峰：我想要中国有趣](http://www.douban.com/note/243478637/)
 >###触动点
